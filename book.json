@@ -1,12 +1,16 @@
 {
     "gitbook": "3.2.3",
-    "title": "Kumu Help Docs",
+    "title": "Compass Documentation",
     "description": "",
-    "plugins": ["heading-anchors"],
+    "plugins": ["heading-anchors", "algolia", "search"],
     "structure": {
         "readme": "welcome.md"
     },
     "pluginsConfig": {
-        
+        "algolia": {
+          "index":         "production",
+          "applicationID": "57BMMXZFJV",
+          "publicKey":     "bbdbdac46c24ac52b1bc181e394cb252"
+      }
     }
 }
