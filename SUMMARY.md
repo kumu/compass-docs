@@ -2,5 +2,5 @@
 
 ## Getting started
 
-* [Installing Compass](/articles/installing-compass.md)
-* [Enabling private message insights](/articles/enabling-private-message-insights.md)
+* [Installing Compass](/guides/installing-compass.md)
+* [Enabling private message insights](/guides/enabling-private-message-insights.md)

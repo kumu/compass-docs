@@ -34,3 +34,12 @@ Once you've enabled private message insights, you can use the same **Insights** 
 ![](/images/private-message-send-reminders.png)
 
 <span class="edit-link"><a href="https://github.com/kumu/compass-docs/blob/master/articles/enabling-private-message-insights.md" target="_blank"><i class="fa fa-github"></i> edit this page</a></span>
+
+
+<!-- ## How we respect your privacy when analyzing private messages -->
+
+<!-- Unfortunately, given the constraints of the Slack API, the only way for us to do even the simple, less intrusive calculations like "How many times have these two people messaged each other?" is to retrieve a data object that includes the content of those messages. So, even for simple analysis, our server still technically has to read message content.
+
+As the documentation indicates, the only type of info we extract from the actual message text is @mentions and sentiment. When we analyze sentiment, we're calculating the positivity and negativity of individual words only—never analyzing full phrases that could convey more private meaning.
+
+Also, we definitely never store message content on our end in any way. Content arrives at our server, we analyze it to build the stats and visuals you see in the app, and we store only the results of that analysis. -->
