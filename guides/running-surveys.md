@@ -10,7 +10,7 @@ But imagine you were able to connect people based on who they turn to for advice
 
 To get started with surveys, click on the chat bubble icon <i class="fa fa-comment">  </i> to open the survey panel.
 
-![](/images/survey-panel.png)
+![](/images/survey-questions.png)
 
 The survey panel will show a list of any questions you've asked in the past, and you can click the **Add Survey** button at the top to create a new one. In a new survey, you can choose an answer type:
 - **Teammate**: Respondents can select somebody else in the workspace as their answer. You can opt to let people select more than one other person in their answer.
