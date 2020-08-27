@@ -43,7 +43,7 @@ In all three types of Compass maps, you can customize the visualization using th
 
 With the time range dropdown, you can choose the time period that Compass takes into account when it draws the map.
 
-If you click the settings icon <i class="fa fa-sliders">  </i> in the top right toolbar, you can access additional options. Aside from teh **Source** tool that you can use to bring in survey data, you can also apply color-coding, or include only certain people in the map.
+If you click the settings icon <i class="fa fa-sliders">  </i> in the top right toolbar, you can access additional options. Aside from the **Source** tool that you can use to bring in survey data, you can also apply color-coding, or include only certain people in the map.
 
 
 <span class="edit-link"><a href="https://github.com/kumu/compass-docs/blob/master/guides/reading-the-map.md" target="_blank"><i class="fa fa-github"></i> edit this page</a></span>
