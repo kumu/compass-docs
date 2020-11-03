@@ -1,6 +1,6 @@
 # Reading the map
 
-The star of the show in Compass is the **map** of your team.
+The star of the show in Compass is the map of your team.
 
 On the map, each circle represents either a **person**, a **Slack channel**, or a **response**-to-a survey question. Each line , represents a relationship between two people, a relationship between a person and a channel, or a relationship between a person and a survey response.
 

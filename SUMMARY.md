@@ -13,6 +13,6 @@
 
 ## Dig deeper
 
-
+[Sentiment analysis](/guides/sentiment-analysis.md)
 
 ## Miscellaneous
