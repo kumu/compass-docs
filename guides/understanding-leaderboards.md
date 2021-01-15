@@ -55,6 +55,16 @@ People on this leaderboard are often those engaged with people across many disci
 - Do the people on this leaderboard get a lot done each week? Or are they spending too much time networking across the organization?
 - Do the people on this leaderboard hold roles where they should be talking to many people? If not, why might they need something from so many people?
 
+
+#### Indegree
+
+
+
+
+#### Explorers
+
+
+
 #### Strong Ties
 
 Strong Ties are the pairs of people who communicate most frequently. This leaderboard is measured by the number of interactions (@mentions or private messages) between two people.
